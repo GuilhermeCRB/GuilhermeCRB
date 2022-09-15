@@ -1,9 +1,9 @@
 <h1>Hi there! Nice to see you around here.</h1>
 
-
 <p>
   Welcome to my page! </br> I'm Guilherme, full stack developer from <b>Niterói, Rio de Janeiro</b>.
 </p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,3 +30,9 @@
   Let me give you a random dev joke to cheer your day up!
 </p>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<h3 align="center">Get in touch</h3>
+<p align="center">
+  <a href="mailto:guilhermecrbarros@gmail.com?subject=Olá,%20Guilherme%20Cardoso"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/guilherme-crbarros/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
