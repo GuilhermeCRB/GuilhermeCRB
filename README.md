@@ -50,9 +50,10 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
   
   
-  Let me give you a random dev joke to cheer your day up!
+
+<h3 align="center">Let me give you a random dev joke to cheer your day up!</h3>
 </p>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
 
 <h3 align="center">Get in touch</h3>
 <p align="center">
