@@ -17,6 +17,7 @@
 - _**Back End**_
 
   ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-009639?style=for-the-badge&logo=spring&logoColor=white)
   ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,9 +28,11 @@
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-C21325?style=for-the-badge&logo=angular&logoColor=white)
   ![StyledComponent](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+  ![JSF](https://img.shields.io/badge/Jsf-E34F26?style=for-the-badge&logo=jsf&logoColor=white)
 
 - _**DevOps**_
 
