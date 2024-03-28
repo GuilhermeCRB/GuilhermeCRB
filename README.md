@@ -16,6 +16,7 @@
 
 - _**Back End**_
 
+  ![Nestjs](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
   ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-009639?style=for-the-badge&logo=spring&logoColor=white)
   ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
