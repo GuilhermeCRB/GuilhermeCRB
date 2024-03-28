@@ -19,7 +19,7 @@
   ![Nestjs](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
   ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-009639?style=for-the-badge&logo=spring&logoColor=white)
-  ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
